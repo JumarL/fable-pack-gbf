@@ -14,7 +14,6 @@
         }, "description": "Granblue Fantasy",
         "type":"ANIME", "format":"TV",
         "trailer": {"site":"youtube","id":"yGZoqzMWRuU"},
-        "externalLinks": [{"site":"", "url":""}],
         "images": [{"url":"https://pbs.twimg.com/media/ET-HRHWUYAE-1b_?format=jpg&name=large","artist":{"username":"","url":""}}],
         "characters": [
           {"characterId": "0001","role": "MAIN"},{"characterId": "0002","role": "MAIN"},
