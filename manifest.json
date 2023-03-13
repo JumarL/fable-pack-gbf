@@ -302,7 +302,7 @@
         },{
         "id": "0030",
         "age": "19", "gender": "Male",
-        "name": {"english": "Seox","native": "シス","romaji": "Six","alternative": ["Xing]},
+        "name": {"english": "Seox","native": "シス","romaji": "Six","alternative": ["Xing"]},
         "description": "",
         "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Seox"}],
         "popularity": 0,
