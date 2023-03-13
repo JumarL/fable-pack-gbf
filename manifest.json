@@ -124,7 +124,7 @@
         "age": "22", "gender": "Female",
         "name": {"english": "Vira","native": "ヴィーラ","romaji": " ","alternative": []},
         "description": "This self-centered knight journeyed to Knights' Island. There her devotion to one woman turned into a dark obsession.",
-        "externalLinks": [{"site": "","url": "https://gbf.wiki/Vira"}],
+        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Vira"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/5Jcv6lY.png","artist": {"username": "","url": ""}}]
@@ -133,7 +133,7 @@
         "age": "13", "gender": "Female",
         "name": {"english": "Ferry","native": "フェリ","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "","url": "https://gbf.wiki/Ferry"}],
+        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Ferry"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/6hbiPwe.png","artist": {"username": "","url": ""}}]
@@ -142,7 +142,7 @@
         "age": "Unknown", "gender": "Male",
         "name": {"english": "Noa","native": "ノア","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "","url": "https://gbf.wiki/Noa"}],
+        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Noa"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/fvrnqBY.png","artist": {"username": "","url": ""}}]
@@ -151,7 +151,7 @@
         "age": "21", "gender": "Female",
         "name": {"english": "Lecia","native": "リーシャ","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "","url": "https://gbf.wiki/Lecia"}],
+        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Lecia"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/wtPizCn.png","artist": {"username": "","url": ""}}]
@@ -160,7 +160,7 @@
         "age": "Unknown", "gender": "Female",
         "name": {"english": "Monika","native": "モニカ","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "","url": "https://gbf.wiki/Monika"}],
+        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Monika"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/zppoivd.png","artist": {"username": "","url": ""}}]
@@ -301,8 +301,8 @@
         "images": [{"url": "https://imgur.com/qXigq5v.png","artist": {"username": "","url": ""}}]
         },{
         "id": "0030",
-        "age": "Unknownh", "gender": "Male",
-        "name": {"english": "Seox","native": "シス","romaji": " ","alternative": []},
+        "age": "19", "gender": "Male",
+        "name": {"english": "Seox","native": "シス","romaji": "Six","alternative": ["Xing]},
         "description": "",
         "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Seox"}],
         "popularity": 0,
