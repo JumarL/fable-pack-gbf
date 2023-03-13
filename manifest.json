@@ -14,7 +14,7 @@
         }, "description": "Granblue Fantasy",
         "type":"ANIME", "format":"TV",
         "trailer": {"site":"youtube","id":"yGZoqzMWRuU"},
-        "externalLinks": [{"site":"Granblue Fantasy", "url":"https://game.granbluefantasy.jp/"}],
+        "externalLinks": [{"site":"", "url":""}],
         "images": [{"url":"https://pbs.twimg.com/media/ET-HRHWUYAE-1b_?format=jpg&name=large","artist":{"username":"","url":""}}],
         "characters": [
           {"characterId": "0001","role": "MAIN"},{"characterId": "0002","role": "MAIN"},
@@ -43,7 +43,6 @@
         "age": "15", "gender": "Male",
         "name": {"english": "Gran","native": "グラン","romaji": "Guran","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Main_Character"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "MAIN"}],
         "images": [{"url": "https://imgur.com/qI9Hn9G.png","artist": {"username": "","url": ""}}]
@@ -52,7 +51,6 @@
         "age": "15", "gender": "Female",
         "name": {"english": "Djeeta","native": "ジータ","romaji": "Jiita","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Main_Character"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "MAIN"}],
         "images": [{"url": "https://imgur.com/Sd8957X.png","artist": {"username": "","url": ""}}]
@@ -61,7 +59,6 @@
         "age": "Unknown", "gender": "Female",
         "name": {"english": "Lyria","native": "ルリア","romaji": " ","alternative": []},
         "description": "This preternaturally powerful girl could alter the fate of the sky. She can both command primal beasts, and merge her life force with yours. Lyria has no memories from before the Erste Empire took her.",
-        "externalLinks": [{"site": "","url": "https://gbf.wiki/Lyria_(NPC)"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "MAIN"}],
         "images": [{"url": "https://imgur.com/q7VyFDG.png","artist": {"username": "","url": ""}}]
@@ -70,7 +67,6 @@
         "age": "Unknown", "gender": "",
         "name": {"english": "Vyrn","native": "ビィ","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "","url": "https://gbf.wiki/Vyrn_(NPC)"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/G9aVeau.png","artist": {"username": "","url": ""}}]
@@ -79,7 +75,6 @@
         "age": "24", "gender": "Female",
         "name": {"english": "Katalina","native": "カタリナ","romaji": " ","alternative": []},
         "description": "Lyria's bodyguard, and a girl with a mysterious past. She has let fly a banner of rebellion against the Empire, and is by turn Lyria's loyal retainer and her loving older sister.",
-        "externalLinks": [{"site": "","url": "https://gbf.wiki/Katalina"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/pNchOJg.png","artist": {"username": "","url": ""}}]
@@ -88,7 +83,6 @@
         "age": "29", "gender": "Male",
         "name": {"english": "Rackam","native": "ラカム","romaji": " ","alternative": []},
         "description": "The smoking go-getter of a helmsman at Port Breeze. His shooting abilities are as impressive as his ability to control an airship. He's very blunt, but incredibly helpful and well-liked.",
-        "externalLinks": [{"site": "","url": "https://gbf.wiki/Rackam"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/l7y7luf.png","artist": {"username": "","url": ""}}]
@@ -97,7 +91,6 @@
         "age": "11", "gender": "Female",
         "name": {"english": "Io","native": "イオ","romaji": " ","alternative": ["Io Euclase"]},
         "description": "A young girl of Valtz. Her immaturities stand out, however her resolve to find a new magic master after her former abandoned her is inspiring.",
-        "externalLinks": [{"site": "","url": "https://gbf.wiki/Io"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/WAwFCtr.png","artist": {"username": "","url": ""}}]
@@ -106,7 +99,6 @@
         "age": "50", "gender": "Male",
         "name": {"english": "Eugen","native": "オイゲン","romaji": " ","alternative": []},
         "description": "Eugen is a crafty old soldier, yet he is filled with a kind of remorse that is rare even at his age. Nevertheless he has a good demeanor, and his skills and knowledge make him a powerful ally.",
-        "externalLinks": [{"site": "","url": "https://gbf.wiki/Eugen"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/A3JXwqx.png","artist": {"username": "","url": ""}}]
@@ -115,7 +107,6 @@
         "age": "Unknown", "gender": "Female",
         "name": {"english": "Rosetta","native": "ロゼッタ","romaji": " ","alternative": []},
         "description": "Rosetta hides the world's lies, as if covering a scent with perfume. Those in her vicinity may get hints as to the truth, but she herself will never tell, instead saying she hopes for a miracle, like any other person.",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Rosetta"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/1UfB36R.png","artist": {"username": "","url": ""}}]
@@ -124,7 +115,6 @@
         "age": "22", "gender": "Female",
         "name": {"english": "Vira","native": "ヴィーラ","romaji": " ","alternative": []},
         "description": "This self-centered knight journeyed to Knights' Island. There her devotion to one woman turned into a dark obsession.",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Vira"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/5Jcv6lY.png","artist": {"username": "","url": ""}}]
@@ -133,7 +123,6 @@
         "age": "13", "gender": "Female",
         "name": {"english": "Ferry","native": "フェリ","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Ferry"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/6hbiPwe.png","artist": {"username": "","url": ""}}]
@@ -142,7 +131,6 @@
         "age": "Unknown", "gender": "Male",
         "name": {"english": "Noa","native": "ノア","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Noa"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/fvrnqBY.png","artist": {"username": "","url": ""}}]
@@ -151,7 +139,6 @@
         "age": "21", "gender": "Female",
         "name": {"english": "Lecia","native": "リーシャ","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Lecia"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/wtPizCn.png","artist": {"username": "","url": ""}}]
@@ -160,7 +147,6 @@
         "age": "Unknown", "gender": "Female",
         "name": {"english": "Monika","native": "モニカ","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Monika"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/zppoivd.png","artist": {"username": "","url": ""}}]
@@ -169,7 +155,6 @@
         "age": "Unknown", "gender": "Female",
         "name": {"english": "Black Knight","native": "黒騎士","romaji": "Kuro Kishi","alternative": ["Apollonia Vaar"]},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Black_Knight"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/bQ4S1Gd.png","artist": {"username": "","url": ""}}]
@@ -178,7 +163,6 @@
         "age": "Unknown", "gender": "Female",
         "name": {"english": "Orchid","native": "オーキス","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Orchid_(Grand)"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/vlWBMdf.png","artist": {"username": "","url": ""}}]
@@ -187,7 +171,6 @@
         "age": "Unknown", "gender": "Male",
         "name": {"english": "Drang","native": "ドランク","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Drang"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/cBmdYAr.png","artist": {"username": "","url": ""}}]
@@ -196,7 +179,6 @@
         "age": "Unknown", "gender": "Female",
         "name": {"english": "Sturm","native": "スツルム","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Sturm"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/QjGuqkK.png","artist": {"username": "","url": ""}}]
@@ -205,7 +187,6 @@
         "age": "Unknown", "gender": "Female",
         "name": {"english": "Tiamat","native": "ティアマト","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Tiamat_(Summon)"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/L8iqB1D.png","artist": {"username": "","url": ""}}]
@@ -214,7 +195,6 @@
         "age": "Unknown", "gender": "Other",
         "name": {"english": "Colossus","native": "コロッサス","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Colossus_(Summon)"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/yad4LUy.png","artist": {"username": "","url": ""}}]
@@ -223,7 +203,6 @@
         "age": "Unknown", "gender": "Other",
         "name": {"english": "Leviathan","native": "リヴァイアサン","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Leviathan"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/nGpec5H.png","artist": {"username": "","url": ""}}]
@@ -232,7 +211,6 @@
         "age": "Unknown", "gender": "Female",
         "name": {"english": "Yggdrasil","native": "ユグドラシル","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Yggdrasil_(Summon)"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/9syj0Ki.png","artist": {"username": "","url": ""}}]
@@ -241,7 +219,6 @@
         "age": "Unknown", "gender": "Female",
         "name": {"english": "Celeste","native": "セレスト","romaji": " ","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Celeste"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/l427VlM.png","artist": {"username": "","url": ""}}]
@@ -250,7 +227,6 @@
         "age": "Unknown", "gender": "Female",
         "name": {"english": "Luminiera","native": "シュヴァリエ","romaji": "Chevalier","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Luminiera"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/H1d5SN8.png","artist": {"username": "","url": ""}}]
@@ -259,7 +235,6 @@
         "age": "Unknown", "gender": "Male",
         "name": {"english": "Anre","native": "ウーノ","romaji": "Uno","alternative": []},
         "description": "One of the Eternals—they who stand astride the skies and across the path of any would-be calamity. The only sage of their number, Anre was the one who gathered the Eternals together. He continues to protect the balance of peace, wielding great power in the hopes of one day ridding the world of sadness.",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Anre"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/U5zHKIo.png","artist": {"username": "","url": ""}}]
@@ -268,7 +243,6 @@
         "age": "22", "gender": "Female",
         "name": {"english": "Tweyen","native": "ソーン","romaji": "Song","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Tweyen"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/n9t4iwK.png","artist": {"username": "","url": ""}}]
@@ -277,7 +251,6 @@
         "age": "Unknown", "gender": "Female",
         "name": {"english": "Threo","native": "サラーサ","romaji": "Sarasa","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Threo"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/wrTqBcN.png","artist": {"username": "","url": ""}}]
@@ -286,7 +259,6 @@
         "age": "17 (Self-proclaimed)", "gender": "Male",
         "name": {"english": "Feower","native": "カトル","romaji": "Quatre","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Feower"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/xkgJlQx.png","artist": {"username": "","url": ""}}]
@@ -295,7 +267,6 @@
         "age": "7", "gender": "Female",
         "name": {"english": "Fif","native": "フュンフ","romaji": "Funf","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Fif"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/qXigq5v.png","artist": {"username": "","url": ""}}]
@@ -304,7 +275,6 @@
         "age": "19", "gender": "Male",
         "name": {"english": "Seox","native": "シス","romaji": "Six","alternative": ["Xing"]},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Seox"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/zg38iPg.png","artist": {"username": "","url": ""}}]
@@ -313,7 +283,6 @@
         "age": "27", "gender": "Male",
         "name": {"english": "Seofon","native": "シエテ","romaji": "Siete","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Seofon"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/f4SHsQ7.png","artist": {"username": "","url": ""}}]
@@ -322,7 +291,6 @@
         "age": "Unknown", "gender": "Male",
         "name": {"english": "Eahta","native": "オクトー","romaji": "Octo","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Eahta"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/FbmHnra.png","artist": {"username": "","url": ""}}]
@@ -331,7 +299,6 @@
         "age": "20", "gender": "Female",
         "name": {"english": "Niyon","native": "ニオ","romaji": "Nio","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Niyon"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/Y5zEbEf.png","artist": {"username": "","url": ""}}]
@@ -340,7 +307,6 @@
         "age": "17 (Self-proclaimed)", "gender": "Female",
         "name": {"english": "Tien","native": "エッセル","romaji": "Esser","alternative": []},
         "description": "",
-        "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Tien"}],
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
         "images": [{"url": "https://imgur.com/FGaquXF.png","artist": {"username": "","url": ""}}]
