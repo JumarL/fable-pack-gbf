@@ -139,7 +139,7 @@
         "images": [{"url": "https://imgur.com/6hbiPwe.png","artist": {"username": "","url": ""}}]
         },{
         "id": "0012",
-        "age": "", "gender": "Male",
+        "age": "Unknown", "gender": "Male",
         "name": {"english": "Noa","native": "ノア","romaji": " ","alternative": []},
         "description": "",
         "externalLinks": [{"site": "","url": "https://gbf.wiki/Noa"}],
@@ -166,8 +166,8 @@
         "images": [{"url": "https://imgur.com/zppoivd.png","artist": {"username": "","url": ""}}]
         },{
         "id": "0015",
-        "age": "", "gender": "Female",
-        "name": {"english": "Black Knight","native": "黒騎士","romaji": "Kuro Kishi","alternative": ["Apollina"]},
+        "age": "Unknown", "gender": "Female",
+        "name": {"english": "Black Knight","native": "黒騎士","romaji": "Kuro Kishi","alternative": ["Apollonia Vaar"]},
         "description": "",
         "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Black_Knight"}],
         "popularity": 0,
@@ -184,7 +184,7 @@
         "images": [{"url": "https://imgur.com/vlWBMdf.png","artist": {"username": "","url": ""}}]
         },{
         "id": "0017",
-        "age": "", "gender": "Male",
+        "age": "Unknown", "gender": "Male",
         "name": {"english": "Drang","native": "ドランク","romaji": " ","alternative": []},
         "description": "",
         "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Drang"}],
@@ -193,7 +193,7 @@
         "images": [{"url": "https://imgur.com/cBmdYAr.png","artist": {"username": "","url": ""}}]
         },{
         "id": "0018",
-        "age": "", "gender": "Female",
+        "age": "Unknown", "gender": "Female",
         "name": {"english": "Sturm","native": "スツルム","romaji": " ","alternative": []},
         "description": "",
         "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Sturm"}],
@@ -265,7 +265,7 @@
         "images": [{"url": "https://imgur.com/U5zHKIo.png","artist": {"username": "","url": ""}}]
         },{
         "id": "0026",
-        "age": "", "gender": "Female",
+        "age": "22", "gender": "Female",
         "name": {"english": "Tweyen","native": "ソーン","romaji": "Song","alternative": []},
         "description": "",
         "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Tweyen"}],
@@ -274,7 +274,7 @@
         "images": [{"url": "https://imgur.com/n9t4iwK.png","artist": {"username": "","url": ""}}]
         },{
         "id": "0027",
-        "age": "", "gender": "Female",
+        "age": "Unknown", "gender": "Female",
         "name": {"english": "Threo","native": "サラーサ","romaji": "Sarasa","alternative": []},
         "description": "",
         "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Threo"}],
@@ -283,7 +283,7 @@
         "images": [{"url": "https://imgur.com/wrTqBcN.png","artist": {"username": "","url": ""}}]
         },{
         "id": "0028",
-        "age": "", "gender": "Male",
+        "age": "17 (Self-proclaimed)", "gender": "Male",
         "name": {"english": "Feower","native": "カトル","romaji": "Quatre","alternative": []},
         "description": "",
         "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Feower"}],
@@ -292,7 +292,7 @@
         "images": [{"url": "https://imgur.com/xkgJlQx.png","artist": {"username": "","url": ""}}]
         },{
         "id": "0029",
-        "age": "", "gender": "Female",
+        "age": "7", "gender": "Female",
         "name": {"english": "Fif","native": "フュンフ","romaji": "Funf","alternative": []},
         "description": "",
         "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Fif"}],
@@ -301,7 +301,7 @@
         "images": [{"url": "https://imgur.com/qXigq5v.png","artist": {"username": "","url": ""}}]
         },{
         "id": "0030",
-        "age": "", "gender": "Male",
+        "age": "Unknownh", "gender": "Male",
         "name": {"english": "Seox","native": "シス","romaji": " ","alternative": []},
         "description": "",
         "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Seox"}],
@@ -310,7 +310,7 @@
         "images": [{"url": "https://imgur.com/zg38iPg.png","artist": {"username": "","url": ""}}]
         },{
         "id": "0031",
-        "age": "", "gender": "Male",
+        "age": "27", "gender": "Male",
         "name": {"english": "Seofon","native": "シエテ","romaji": "Siete","alternative": []},
         "description": "",
         "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Seofon"}],
@@ -319,7 +319,7 @@
         "images": [{"url": "https://imgur.com/f4SHsQ7.png","artist": {"username": "","url": ""}}]
         },{
         "id": "0032",
-        "age": "", "gender": "Male",
+        "age": "Unknown", "gender": "Male",
         "name": {"english": "Eahta","native": "オクトー","romaji": "Octo","alternative": []},
         "description": "",
         "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Eahta"}],
@@ -328,7 +328,7 @@
         "images": [{"url": "https://imgur.com/FbmHnra.png","artist": {"username": "","url": ""}}]
         },{
         "id": "0033",
-        "age": "", "gender": "Female",
+        "age": "20", "gender": "Female",
         "name": {"english": "Niyon","native": "ニオ","romaji": "Nio","alternative": []},
         "description": "",
         "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Niyon"}],
@@ -337,7 +337,7 @@
         "images": [{"url": "https://imgur.com/Y5zEbEf.png","artist": {"username": "","url": ""}}]
         },{
         "id": "0034",
-        "age": "", "gender": "Female",
+        "age": "17 (Self-proclaimed)", "gender": "Female",
         "name": {"english": "Tien","native": "エッセル","romaji": "Esser","alternative": []},
         "description": "",
         "externalLinks": [{"site": "gbf.wiki","url": "https://gbf.wiki/Tien"}],
