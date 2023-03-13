@@ -15,10 +15,25 @@
         "type":"ANIME", "format":"TV",
         "trailer": {"site":"youtube","id":"yGZoqzMWRuU"},
         "externalLinks": [{"site":"Granblue Fantasy", "url":"https://game.granbluefantasy.jp/"}],
-        "images": [{"url":"","artist":{"username":"Official Art","url":""}}],
-        "characters": [{
-            "characterId": "0001","role": "MAIN"
-        }]
+        "images": [{"url":"","artist":{"username":"","url":""}}],
+        "characters": [
+          {"characterId": "0001","role": "MAIN"},{"characterId": "0002","role": "MAIN"},
+          {"characterId": "0003","role": "MAIN"},{"characterId": "0004","role": "SUPPORTING"},
+          {"characterId": "0005","role": "SUPPORTING"},{"characterId": "0006","role": "SUPPORTING"},
+          {"characterId": "0007","role": "SUPPORTING"},{"characterId": "0008","role": "SUPPORTING"},
+          {"characterId": "0009","role": "SUPPORTING"},{"characterId": "0010","role": "SUPPORTING"},
+          {"characterId": "0011","role": "SUPPORTING"},{"characterId": "0012","role": "SUPPORTING"},
+          {"characterId": "0013","role": "SUPPORTING"},{"characterId": "0014","role": "SUPPORTING"},
+          {"characterId": "0015","role": "SUPPORTING"},{"characterId": "0016","role": "SUPPORTING"},
+          {"characterId": "0017","role": "SUPPORTING"},{"characterId": "0018","role": "SUPPORTING"},
+          {"characterId": "0019","role": "SUPPORTING"},{"characterId": "0020","role": "SUPPORTING"},
+          {"characterId": "0021","role": "SUPPORTING"},{"characterId": "0022","role": "SUPPORTING"},
+          {"characterId": "0023","role": "SUPPORTING"},{"characterId": "0024","role": "SUPPORTING"},
+          {"characterId": "0025","role": "SUPPORTING"},{"characterId": "0026","role": "SUPPORTING"},
+          {"characterId": "0027","role": "SUPPORTING"},{"characterId": "0028","role": "SUPPORTING"},
+          {"characterId": "0029","role": "SUPPORTING"},{"characterId": "0030","role": "SUPPORTING"},
+          {"characterId": "0031","role": "SUPPORTING"},{"characterId": "0032","role": "SUPPORTING"},
+          {"characterId": "0033","role": "SUPPORTING"},{"characterId": "0034","role": "SUPPORTING"}]
     }],
     "conflicts": []
   },
