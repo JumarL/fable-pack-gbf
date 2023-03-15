@@ -44,7 +44,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "MAIN"}],
-        "images": [{"url": "https://imgur.com/qI9Hn9G.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/qI9Hn9G.png"}]
         },{
         "id": "0002",
         "age": "15", "gender": "Female",
@@ -52,7 +52,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "MAIN"}],
-        "images": [{"url": "https://imgur.com/Sd8957X.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/Sd8957X.png"}]
         },{
         "id": "0003",
         "age": "Unknown", "gender": "Female",
@@ -60,7 +60,7 @@
         "description": "This preternaturally powerful girl could alter the fate of the sky. She can both command primal beasts, and merge her life force with yours. Lyria has no memories from before the Erste Empire took her.",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "MAIN"}],
-        "images": [{"url": "https://imgur.com/q7VyFDG.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/q7VyFDG.png"}]
         },{
         "id": "0004",
         "age": "Unknown", "gender": "",
@@ -68,7 +68,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/G9aVeau.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/G9aVeau.png"}]
         },{
         "id": "0005",
         "age": "24", "gender": "Female",
@@ -76,7 +76,7 @@
         "description": "Lyria's bodyguard, and a girl with a mysterious past. She has let fly a banner of rebellion against the Empire, and is by turn Lyria's loyal retainer and her loving older sister.",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/pNchOJg.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/pNchOJg.png"}]
         },{
         "id": "0006",
         "age": "29", "gender": "Male",
@@ -84,7 +84,7 @@
         "description": "The smoking go-getter of a helmsman at Port Breeze. His shooting abilities are as impressive as his ability to control an airship. He's very blunt, but incredibly helpful and well-liked.",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/l7y7luf.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/l7y7luf.png"}]
         },{
         "id": "0007",
         "age": "11", "gender": "Female",
@@ -92,7 +92,7 @@
         "description": "A young girl of Valtz. Her immaturities stand out, however her resolve to find a new magic master after her former abandoned her is inspiring.",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/WAwFCtr.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/WAwFCtr.png"}]
         },{
         "id": "0008",
         "age": "50", "gender": "Male",
@@ -100,7 +100,7 @@
         "description": "Eugen is a crafty old soldier, yet he is filled with a kind of remorse that is rare even at his age. Nevertheless he has a good demeanor, and his skills and knowledge make him a powerful ally.",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/A3JXwqx.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/A3JXwqx.png"}]
         },{
         "id": "0009",
         "age": "Unknown", "gender": "Female",
@@ -108,7 +108,7 @@
         "description": "Rosetta hides the world's lies, as if covering a scent with perfume. Those in her vicinity may get hints as to the truth, but she herself will never tell, instead saying she hopes for a miracle, like any other person.",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/1UfB36R.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/1UfB36R.png"}]
         },{
         "id": "0010",
         "age": "22", "gender": "Female",
@@ -116,7 +116,7 @@
         "description": "This self-centered knight journeyed to Knights' Island. There her devotion to one woman turned into a dark obsession.",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/5Jcv6lY.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/5Jcv6lY.png"}]
         },{
         "id": "0011",
         "age": "13", "gender": "Female",
@@ -124,7 +124,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/6hbiPwe.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/6hbiPwe.png"}]
         },{
         "id": "0012",
         "age": "Unknown", "gender": "Male",
@@ -132,7 +132,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/fvrnqBY.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/fvrnqBY.png"}]
         },{
         "id": "0013",
         "age": "21", "gender": "Female",
@@ -140,7 +140,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/wtPizCn.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/wtPizCn.png"}]
         },{
         "id": "0014",
         "age": "Unknown", "gender": "Female",
@@ -148,7 +148,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/zppoivd.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/zppoivd.png"}]
         },{
         "id": "0015",
         "age": "Unknown", "gender": "Female",
@@ -156,7 +156,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/bQ4S1Gd.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/bQ4S1Gd.png"}]
         },{
         "id": "0016",
         "age": "Unknown", "gender": "Female",
@@ -164,7 +164,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/vlWBMdf.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/vlWBMdf.png"}]
         },{
         "id": "0017",
         "age": "Unknown", "gender": "Male",
@@ -172,7 +172,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/cBmdYAr.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/cBmdYAr.png"}]
         },{
         "id": "0018",
         "age": "Unknown", "gender": "Female",
@@ -180,7 +180,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/QjGuqkK.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/QjGuqkK.png"}]
         },{
         "id": "0019",
         "age": "Unknown", "gender": "Female",
@@ -188,7 +188,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/L8iqB1D.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/L8iqB1D.png"}]
         },{
         "id": "0020",
         "age": "Unknown", "gender": "Other",
@@ -196,7 +196,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/yad4LUy.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/yad4LUy.png"}]
         },{
         "id": "0021",
         "age": "Unknown", "gender": "Other",
@@ -204,7 +204,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/nGpec5H.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/nGpec5H.png"}]
         },{
         "id": "0022",
         "age": "Unknown", "gender": "Female",
@@ -212,7 +212,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/9syj0Ki.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/9syj0Ki.png"}]
         },{
         "id": "0023",
         "age": "Unknown", "gender": "Female",
@@ -220,7 +220,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/l427VlM.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/l427VlM.png"}]
         },{
         "id": "0024",
         "age": "Unknown", "gender": "Female",
@@ -228,7 +228,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/H1d5SN8.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/H1d5SN8.png"}]
         },{
         "id": "0025",
         "age": "Unknown", "gender": "Male",
@@ -236,7 +236,7 @@
         "description": "One of the Eternals—they who stand astride the skies and across the path of any would-be calamity. The only sage of their number, Anre was the one who gathered the Eternals together. He continues to protect the balance of peace, wielding great power in the hopes of one day ridding the world of sadness.",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/U5zHKIo.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/U5zHKIo.png"}]
         },{
         "id": "0026",
         "age": "22", "gender": "Female",
@@ -244,7 +244,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/n9t4iwK.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/n9t4iwK.png"}]
         },{
         "id": "0027",
         "age": "Unknown", "gender": "Female",
@@ -252,7 +252,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/wrTqBcN.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/wrTqBcN.png"}]
         },{
         "id": "0028",
         "age": "17 (Self-proclaimed)", "gender": "Male",
@@ -260,7 +260,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/xkgJlQx.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/xkgJlQx.png"}]
         },{
         "id": "0029",
         "age": "7", "gender": "Female",
@@ -268,7 +268,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/qXigq5v.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/qXigq5v.png"}]
         },{
         "id": "0030",
         "age": "19", "gender": "Male",
@@ -276,7 +276,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/zg38iPg.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/zg38iPg.png"}]
         },{
         "id": "0031",
         "age": "27", "gender": "Male",
@@ -284,7 +284,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/f4SHsQ7.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/f4SHsQ7.png"}]
         },{
         "id": "0032",
         "age": "Unknown", "gender": "Male",
@@ -292,7 +292,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/FbmHnra.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/FbmHnra.png"}]
         },{
         "id": "0033",
         "age": "20", "gender": "Female",
@@ -300,7 +300,7 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/Y5zEbEf.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/Y5zEbEf.png"}]
         },{
         "id": "0034",
         "age": "17 (Self-proclaimed)", "gender": "Female",
@@ -308,7 +308,175 @@
         "description": "",
         "popularity": 0,
         "media":[{"mediaId": "1","role": "SUPPORTING"}],
-        "images": [{"url": "https://imgur.com/FGaquXF.png","artist": {"username": "","url": ""}}]
+        "images": [{"url": "https://imgur.com/FGaquXF.png"}]
+        },{
+        "id": "0035",
+        "age": "", "gender": "Male",
+        "name": {"english": "Alanaan","native": " ","romaji": " ","alternative": ["Evoker of The Sun"]},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0036",
+        "age": "", "gender": "Male",
+        "name": {"english": "Caim","native": " ","romaji": " ","alternative": ["Evoker of The Hanged Man"]},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0037",
+        "age": "", "gender": "Male",
+        "name": {"english": "Estarriola","native": " ","romaji": " ","alternative": ["Evoker of Temperance"]},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0038",
+        "age": "", "gender": "Female",
+        "name": {"english": "Fraux","native": " ","romaji": " ","alternative": ["Evoker of The Devil"]},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0039",
+        "age": "", "gender": "Male",
+        "name": {"english": "Geisenborger","native": " ","romaji": " ","alternative": ["Evoker of The Star"]},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0040",
+        "age": "", "gender": "Female",
+        "name": {"english": "Haaselia","native": " ","romaji": " ","alternative": ["Evoker of The Moon"]},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0041",
+        "age": "", "gender": "Male",
+        "name": {"english": "Katzelia","native": " ","romaji": " ","alternative": ["Evoker of Judgement"]},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0042",
+        "age": "", "gender": "Male",
+        "name": {"english": "Lobelia","native": " ","romaji": " ","alternative": ["Evoker of The Tower"]},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0043",
+        "age": "", "gender": "Female",
+        "name": {"english": "Maria Theresa","native": " ","romaji": " ","alternative": ["Evoker of Justice"]},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0044",
+        "age": "", "gender": "Female",
+        "name": {"english": "Nier","native": " ","romaji": " ","alternative": ["Evoker of Death"]},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0045",
+        "age": "", "gender": "Other",
+        "name": {"english": "The Sun","native": " ","romaji": " ","alternative": []},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0046",
+        "age": "", "gender": "Other",
+        "name": {"english": "The Hanged Man","native": " ","romaji": " ","alternative": []},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0047",
+        "age": "", "gender": "Other",
+        "name": {"english": "Temperance","native": " ","romaji": " ","alternative": []},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0048",
+        "age": "", "gender": "Other",
+        "name": {"english": "The Devil","native": " ","romaji": " ","alternative": []},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0049",
+        "age": "", "gender": "Other",
+        "name": {"english": "The Star","native": " ","romaji": " ","alternative": []},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0050",
+        "age": "", "gender": "Other",
+        "name": {"english": "The Moon","native": " ","romaji": " ","alternative": []},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0051",
+        "age": "", "gender": "Other",
+        "name": {"english": "Judgement","native": " ","romaji": " ","alternative": []},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0052",
+        "age": "", "gender": "Other",
+        "name": {"english": "The Tower","native": " ","romaji": " ","alternative": []},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0053",
+        "age": "", "gender": "Other",
+        "name": {"english": "Justice","native": " ","romaji": " ","alternative": []},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0054",
+        "age": "", "gender": "Other",
+        "name": {"english": "Death","native": " ","romaji": " ","alternative": []},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
+        },{
+        "id": "0055",
+        "age": "", "gender": "Other",
+        "name": {"english": "The World","native": " ","romaji": " ","alternative": []},
+        "description": "",
+        "popularity": 0,
+        "media":[{"mediaId": "1","role": "SUPPORTING"}],
+        "images": [{"url": ""}]
         }
     ], "conflicts":[]
   }
